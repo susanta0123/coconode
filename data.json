@@ -1,0 +1,88 @@
+db.bestseller.insertMany([
+    {
+        "id": "1",
+        "brand": "Cadbury",
+        "title": "Dairy Milk Chocolate Bar 180g",
+        "description": "Cadbury’s deliciously creamy milk chocolate is made with a Glass and a Half of fresh milk. With fairtrade cocoa and sugar, this large 200g bar is perfect for sharing with the whole family.",
+        "image": "https://cdn.shopify.com/s/files/1/0656/5412/8891/products/1CH1644_1800x1800.png?v=1668520772",
+        "price":  485,
+        "rating": 8.43
+
+
+    },
+    {
+        "id": "2",
+        "brand": "Godiva",
+        "title": "Dark Blood Orange Bar 90g",
+        "description": "These flavors go together like the holiday season and gifts! Featuring a thrilling blend of 50% cacao dark chocolate mixed with sweet and tangy Italian blood orange pieces, our Dark Chocolate Blood Orange Bars are sensational. This set of 10 lets you savor some yourself and share with friends and family",
+        "image": "https://cdn.shopify.com/s/files/1/0656/5412/8891/products/1CH1165_1800x1800.png?v=1659949358",
+        "price":  525,
+        "rating": 9.53
+
+
+    },
+    {
+        "id": "3",
+        "brand": "Hershey’s",
+        "title": "Dairy Milk Chocolate Bar 180g",
+        "description": "The Hershey’s milk chocolate bar is truly unique! Made with farm fresh milk, this HERSHEY’S Chocolate Bar makes life delicious. Unwrap a bar, break off a piece, savor and repeat.",
+        "image": "https://cdn.shopify.com/s/files/1/0656/5412/8891/products/Hershey_s-09_1800x1800.png?v=1659950981",
+        "price":  130,
+        "rating": 6.43
+
+
+    },
+    {
+        "id": "4",
+        "brand": "Lindor",
+        "title": "Lindt Lindor Singles Dark 60% 100g",
+        "description": "Enjoy the intensity of 60% cocoa dark chocolate as you bite through the shell to discover a smooth melting filling of equally satisfying intensity.",
+        "image": "https://cdn.shopify.com/s/files/1/0656/5412/8891/products/1CH1752_1800x1800.png?v=1675833954",
+        "price":  400,
+        "rating": 9.43
+
+
+    },
+    {
+        "id": "5",
+        "brand": "Neuhaus",
+        "title": "Dark Nibs 70% Cocoa Bar 100g",
+        "description": "Neuhaus Tablet Dark Cocoa Nibs (100G) reveals a strong dark chocolate (70% cocoa) with extra cocoa nibs that bursts with character and flavour.",
+        "image": "https://cdn.shopify.com/s/files/1/0656/5412/8891/products/1CH0335_1800x1800.png?v=1659950196",
+        "price":  895,
+        "rating": 5.43
+
+
+    },
+    {
+        "id": "6",
+        "brand": "Godiva",
+        "title": "Godiva Chocolate Dome 18pc 180g",
+        "description": "The Godiva Chocolate Domes is a luxurious chocolate treat that combines smooth, creamy Godiva milk chocolate with rich, roasted nuts.",
+        "image": "https://cdn.shopify.com/s/files/1/0656/5412/8891/products/1CH0062_1800x1800.png?v=1661334058",
+        "price":  1790,
+        "rating": 5.63
+
+
+    },
+    {
+        "id": "7",
+        "brand": "Whitaker's",
+        "title": "Whitaker's Dark Almond Bar 250g",
+        "description": "Dark Almond 62% COCOA. A generous helping of the finest, freshly roasted crunchy Californian almonds in our decadent 62% cocoa dark chocolate.",
+        "image": "https://cdn.shopify.com/s/files/1/0656/5412/8891/products/Whittaker_s-05_1800x1800.png?v=1659950008",
+        "price":  1995,
+        "rating": 5.4
+
+
+    },
+    {
+        "id": "8",
+        "brand": "Godiva",
+        "title": "Godiva Prestige Milk Biscuit 12pc 100g",
+        "description": "A traditional European biscuit topped with a square of smooth milk chocolate that is signature-imprinted with the legendary Lady Godiva.  ",
+        "image": "https://cdn.shopify.com/s/files/1/0656/5412/8891/products/Godiva-01_1800x1800.png?v=1659950312",
+        "price":  895,
+        "rating": 7.78
+    }
+])
